@@ -1,6 +1,6 @@
 
 
-# 0x00 C - Hello World
+# 0x00. C - Hello, World
 
 This is the first project in the ALX Low-Level Programming curriculum, introducing students to the basics of the C programming language and compiling code.
 
