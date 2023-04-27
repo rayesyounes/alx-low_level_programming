@@ -1,7 +1,4 @@
-#include <stdlib.h>
-#include <string.h>
-#include <stdio.h>
-#include "lists.h"
+#include <lists.h>
 
 /**
  * list_len - check the code for Holberton School students.
