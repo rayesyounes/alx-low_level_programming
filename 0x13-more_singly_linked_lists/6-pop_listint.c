@@ -10,18 +10,13 @@
 int pop_listint(listint_t **head)
 {
 	listint_t *sap;
-	int i;
+	int n;
 
-	if (*head == NULL)
-	{
+	if (head == NULL || *head == NULL)
 		return (0);
-	}
-	else
-	{
-		i = ((*head)->i);
-		sap = *head;
-		*head = ((*head)->next);
-		free(sap);
-	}
-	return (i);
+	sap = *head;
+	*head = sap->next;
+	n = sap->n;
+	free(sap);
+	return (n);
 }
