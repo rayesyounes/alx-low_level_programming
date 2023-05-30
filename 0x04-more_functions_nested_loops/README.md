@@ -28,42 +28,6 @@ The project is organized into different directories, each representing a specifi
 
 To compile and run the C files in this project, make sure you have a C compiler installed on your machine, such as `gcc`.
 
-## Usage
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/alx-low_level_programming.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd alx-low_level_programming/0x04-more_functions_nested_loops
-```
-
-3. Compile the C file you want to run. For example, to compile `0-isupper.c`, use the following command:
-
-```bash
-gcc -Wall -Werror -Wextra -pedantic 0-isupper.c -o isupper
-```
-
-4. Execute the compiled file. Continuing with the previous example:
-
-```bash
-./isupper
-```
-
-5. Follow the on-screen instructions or check the program's output to see the results.
-
-## Author
-
-This project is created and maintained by [Your Name]. You can find more about me on my [GitHub profile](https://github.com/your-username).
-
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code as per the terms of the license.
