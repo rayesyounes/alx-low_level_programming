@@ -1,4 +1,4 @@
-# 0x08 C - Recursion
+# 0x08. C - Recursion
 
 This repository contains solutions to the tasks related to recursion, as part of the ALX Low-Level Programming curriculum.
 
