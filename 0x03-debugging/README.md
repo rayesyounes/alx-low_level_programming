@@ -1,4 +1,4 @@
-0x03. C - Debugging
+# 0x03. C - Debugging
 
 Welcome to the ALX Low-Level Programming repository! This repository contains resources and examples related to the topic of debugging in low-level programming. The purpose of this project is to provide a comprehensive guide and practical examples to help developers understand and effectively debug their low-level code.
 
